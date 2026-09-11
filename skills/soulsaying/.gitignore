@@ -1,0 +1,5 @@
+config.env
+*.mp3
+*.opus
+*.wav
+.DS_Store

@@ -1,0 +1,7 @@
+# Credentials (local only — do not commit!)
+references/credentials.md
+.env
+reports/
+__pycache__/
+*.pyc
+.DS_Store
