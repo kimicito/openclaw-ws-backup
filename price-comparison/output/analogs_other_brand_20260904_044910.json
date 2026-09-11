@@ -1,0 +1,26 @@
+[
+  {
+    "type": "other_brand",
+    "original": "Колесо направляющее 9064302",
+    "analog": "VPI",
+    "original_price": 1050000,
+    "analog_price": null,
+    "row_num": 1
+  },
+  {
+    "type": "other_brand",
+    "original": "Натяжитель гусеницы правый 9231403",
+    "analog": "MERA",
+    "original_price": 1150000,
+    "analog_price": null,
+    "row_num": 2
+  },
+  {
+    "type": "other_brand",
+    "original": "Натяжитель гусеницы левый 9230795",
+    "analog": "MERA",
+    "original_price": 810000,
+    "analog_price": null,
+    "row_num": 3
+  }
+]
